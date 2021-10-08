@@ -1,6 +1,6 @@
 ---
 slug: hello-blog                   # 访问此篇博客时的 url
-title: 第一篇博客                    # 博客标题
+title: cadence                   # 博客标题
 author: 作者                        # 作者
 author_title: 作者的介绍             # 作者的标签
 author_url:                        # 作者的网址
