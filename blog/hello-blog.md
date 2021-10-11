@@ -53,9 +53,21 @@ title: 基本元器件-电阻器
 - 单点连接数字地和模拟地（有时也用电感或磁珠）
 - 预留阻值用于调试
 
+##电阻的使用场景
 
+### 分压电路
+### 限流电路
+### 阻抗匹配电路
+### RC 充放电电路
+### 上下拉电路
+### 其他电路
 
 ## 参考和致谢
-
+- [基本元器件-电阻#电阻的选型](https://wiki-power.com)
 - 《硬件十万个为什么-无源器件篇》
+- [贴片电阻封装、尺寸、功率对应表](http://www.fxdzw.com/rmjb/%E8%B4%B4%E7%89%87%E7%94%B5%E9%98%BB%E5%B0%81%E8%A3%85%E3%80%81%E5%B0%BA%E5%AF%B8%E3%80%81%E5%8A%9F%E7%8E%87%E5%AF%B9%E5%BA%94%E8%A1%A8.pdf)
+- [电源大师课连载（2）| 你不知道的电阻、电容小事儿](https://mp.weixin.qq.com/s/HUWal1ooXUn9PYKf89oGSQ)
 
+> 文章作者：**Power LMZ**  
+> 原文地址：  
+> 版权声明：文章采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 协议，转载请注明出处。
