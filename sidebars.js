@@ -1,6 +1,5 @@
 module.exports = {
   docs: [
-    'Home',
     {
       type: 'category',
       label: '硬件设计 - 分立元件',
