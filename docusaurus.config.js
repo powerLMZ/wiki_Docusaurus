@@ -38,18 +38,18 @@ module.exports = {
       
       // 导航栏上的按钮  按照相应的格式可以创建新的按钮
       items: [
-  //      {
-   //       to: "blog",                   // 要跳转的页面
-    //      label: '博客',                // 按钮名称
-    //      position: 'left'              // 按钮位于左边还是右边
-   //     },
-        
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
+          to: "docs/",                   // 要跳转的页面
+          label: '博客',                // 按钮名称
+          position: 'left'              // 按钮位于左边还是右边
         },
+        
+    //    {
+    //     to: 'docs/',
+    //      activeBasePath: 'docs',
+    //      label: 'Docs',
+    //      position: 'left',
+    //    },
         
         {
           href: 'https://github.com/rcxxx/docusaurus-template',  // 如果要跳转链接则使用 herf
