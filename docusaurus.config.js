@@ -1,14 +1,14 @@
 module.exports = {
-  title: "Someone's Site",              // 站点名称
-  tagline: 'The tagline of this site',  // 站点描述
-  onBrokenLinks: 'throw',
+  title: "LMZ's Site",              // 站点名称
+  tagline: 'Learning notes',  // 站点描述
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',           // 站点的图标
   
   url: 'https://your-docusaurus-test-site.com', // GitHub 页面的 URL
   baseUrl: '/',                         // 项目的基本 URL 设置为 /仓库名/
-  organizationName: '',            // 设置为 Github 用户名
-  projectName: '',   // 设置为 Github 仓库名
+  //organizationName: '',            // 设置为 Github 用户名
+  //projectName: '',   // 设置为 Github 仓库名
   
   
   themeConfig: {
@@ -28,8 +28,8 @@ module.exports = {
     // },
     // 导航栏配置
     navbar: {
-      title: "Someone's Site",                 // 名称
-      
+      title: "Lmz's Site",                 // 名称
+      hideOnScroll: false,
       // 设置logo 如果需要可以取消注释  logo文件推荐转为 .svg 格式
       // logo: {
       //   alt: 'My Site Logo',            
@@ -39,8 +39,8 @@ module.exports = {
       // 导航栏上的按钮  按照相应的格式可以创建新的按钮
       items: [
         {
-          to: '/',                   // 要跳转的页面
-          label: 'Blog',                // 按钮名称
+          to: 'blog',                   // 要跳转的页面
+          label: '博客',                // 按钮名称
           position: 'left'              // 按钮位于左边还是右边
         },
         
