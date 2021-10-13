@@ -38,11 +38,11 @@ module.exports = {
       
       // 导航栏上的按钮  按照相应的格式可以创建新的按钮
       items: [
-        {
-          to: "blog",                   // 要跳转的页面
-          label: '博客',                // 按钮名称
-          position: 'left'              // 按钮位于左边还是右边
-        },
+  //      {
+   //       to: "blog",                   // 要跳转的页面
+    //      label: '博客',                // 按钮名称
+    //      position: 'left'              // 按钮位于左边还是右边
+   //     },
         
         {
           to: 'docs/',
