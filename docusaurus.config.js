@@ -42,7 +42,7 @@ module.exports = {
     },
 
     hideableSidebar: false,
-    navbar: {
+    navbar: {                           //导航栏
       title: "Lmz's Site",                 // 名称
       hideOnScroll: false,
       // 设置logo 如果需要可以取消注释  logo文件推荐转为 .svg 格式
@@ -54,7 +54,7 @@ module.exports = {
       // 导航栏上的按钮  按照相应的格式可以创建新的按钮
       items: [
         {
-          to: "docs",                  // 要跳转的页面
+          to: "docs/",                  // 要跳转的页面
           label: "wiki",               // 按钮名称
           position: "left",              // 按钮位于左边还是右边
         },
