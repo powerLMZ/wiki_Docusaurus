@@ -55,7 +55,7 @@ module.exports = {
       items: [
         {
           to: "blog",                  // 要跳转的页面
-          label: "博客",               // 按钮名称
+          label: "wiki",               // 按钮名称
           position: "left",              // 按钮位于左边还是右边
         },
         {
