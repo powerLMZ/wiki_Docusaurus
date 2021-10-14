@@ -12,16 +12,17 @@ module.exports = {
   //organizationName: '',            // 设置为 Github 用户名
   //projectName: '',   // 设置为 Github 仓库名
   
-  
+  /*
   themeConfig: {
 
-    image: 'https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png',
+   // image: 'https://cos.ap-guangzhou.myqcloud.com/wiki-media-1253965369/doc/logo-zip.png',
     algolia: {
       apiKey: "5c07d8bf9c9928c4453857f6cad0420e",
       indexName: "power",
       contextualSearch: true,
       searchParameters: {},
     },
+    
       colorMode: {
       disableSwitch: false,
       respectPrefersColorScheme: true,
@@ -40,7 +41,7 @@ module.exports = {
         },
       },
     },
-
+*/
     hideableSidebar: false,
     navbar: {                           //导航栏
       title: "Lmz's Site",                 // 名称
