@@ -102,8 +102,9 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          path: "./docs",
           sidebarCollapsible: true, //默认折叠
-          routeBasePath: "/",
+          routeBasePath: "/",      // 这里将 docs/ 设置为首页
           sidebarPath: require.resolve("./sidebars.js"),
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
