@@ -55,7 +55,7 @@ module.exports = {
       // 导航栏上的按钮  按照相应的格式可以创建新的按钮
       items: [
         {
-          to: "docs/",                  // 要跳转的页面
+          to: "docs/home.md",                  // 要跳转的页面
           label: "wiki",               // 按钮名称
           position: "left",              // 按钮位于左边还是右边
         },
