@@ -84,6 +84,16 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        docs: {
+          sidebarCollapsible: true, //默认折叠
+          routeBasePath: "/",
+          sidebarPath: require.resolve("./sidebars.js"),
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: false,
+          //editUrl: "https://github.com/linyuxuanlin/Wiki_Docusaurus/edit/main/",
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
+        },
         blog: {
           showReadingTime: true,
           path: "./blog",
