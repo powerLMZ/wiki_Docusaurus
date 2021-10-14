@@ -1,6 +1,3 @@
-const math = require('remark-math');
-const katex = require('rehype-katex');
-
 module.exports = {
   title: "LMZ's Site",              // 站点名称
   tagline: 'Learning notes',  // 站点描述
