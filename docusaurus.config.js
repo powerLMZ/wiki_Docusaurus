@@ -1,5 +1,4 @@
-//const math = require('remark-math');
-//const katex = require('rehype-katex');
+const math = require('remark-math');const katex = require('rehype-katex');
 
 module.exports = {
   title: "LMZ's Site",              // 站点名称
@@ -47,12 +46,12 @@ module.exports = {
           path: "./docs",
           sidebarCollapsible: true, //默认折叠
           routeBasePath: "/",      // 这里将 docs/ 设置为首页
-          //sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve("./sidebars.js"),
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
           editUrl: "https://github.com/powerLMZ/wiki_Docusaurus/edit/main/",
-          //remarkPlugins: [math],
-          //rehypePlugins: [katex],
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         blog: {
           
@@ -66,7 +65,7 @@ module.exports = {
         },
         
         theme: {
-          //customCss: require.resolve('./src/css/custom.css'),
+         customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
