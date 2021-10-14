@@ -10,7 +10,8 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',           // 站点的图标
   
-    hideableSidebar: false,
+  hideableSidebar: false,
+
     navbar: {                           //导航栏
       title: "Lmz's Site",                 // 名称
       hideOnScroll: false,
