@@ -22,10 +22,10 @@ module.exports = {
     },   
     {
       type: 'category',
-      label: '硬件测试-常见仪器的使用',
+      label: '硬件测试 - 常见仪器的使用',
       items: [
         '常见仪器的使用-万用表',
       ],
-    },   
+    },  
   ],
 };
