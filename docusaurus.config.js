@@ -37,19 +37,19 @@ themeConfig: {
     footer: {
       style: 'dark',
       links: [
-        {
+       /* {
           title: 'Docs',
           items: [
-          /*  {
+            {
               label: 'Home',
               to: 'docs/Home/',
-            },*/
+            },
             {
               label: '基本元器件-电阻',
               to: 'docs/基本元器件-电阻/',
             },
           ],
-        },
+        },*/
         {
           title: 'More',
           items: [
