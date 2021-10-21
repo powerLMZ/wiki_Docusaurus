@@ -41,8 +41,8 @@ themeConfig: {
           title: 'Docs',
           items: [
             {
-              label: 'home',
-              to: 'docs/home',
+              label: 'Home',
+              to: 'docs/Home',
             },
             {
               label: '基本元器件-电阻',
