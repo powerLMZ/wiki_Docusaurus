@@ -40,10 +40,10 @@ themeConfig: {
         {
           title: 'Docs',
           items: [
-            {
+          /*  {
               label: 'Home',
               to: 'docs/home/',
-            },
+            },*/
             {
               label: '基本元器件-电阻',
               to: 'docs/基本元器件-电阻/',
