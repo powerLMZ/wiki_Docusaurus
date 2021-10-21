@@ -1,12 +1,12 @@
 module.exports = {
   title: "LMZ's Site",              // 站点名称
   tagline: 'Learning notes',  // 站点描述
-  url: "https://wiki-docusaurus-orpin.vercel.app/docs/",
-  baseUrl: '/',                         // 项目的基本 URL 设置为 /仓库名/
+  url: "https://github.com/powerLMZ",
+  baseUrl: '/wiki_Docusaurus/',                         // 项目的基本 URL 设置为 /仓库名/
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',           // 站点的图标
   organizationName: 'lmz',
-  projectName: 'lmz-docusaurus2',
+  projectName: 'wiki_Docusaurus',
   //onBrokenMarkdownLinks: 'warn',
   
 themeConfig: {
@@ -20,7 +20,7 @@ themeConfig: {
       hideOnScroll: false,
       items: [
         {
-          to: 'docs',
+          to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -42,11 +42,11 @@ themeConfig: {
           items: [
             {
               label: 'Home',
-              to: 'docs/home',
+              to: 'docs/home/',
             },
             {
               label: '基本元器件-电阻',
-              to: 'docs/基本元器件-电阻',
+              to: 'docs/基本元器件-电阻/',
             },
           ],
         },
@@ -59,7 +59,7 @@ themeConfig: {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/powerLMZ/wiki_Docusaurus',
             },
           ],
         },
@@ -71,7 +71,7 @@ themeConfig: {
       '@docusaurus/preset-classic',
       {
         docs: {
-          path: "./docs",
+          //path: 'blog',
           //sidebarCollapsible: true, 默认折叠
           routeBasePath: "/",      // 这里将 docs/ 设置为首页
           sidebarPath: require.resolve("./sidebars.js"),
@@ -83,7 +83,7 @@ themeConfig: {
           blogSidebarCount: 8,
           postsPerPage: 8,
           showReadingTime: false,
-          path: "./blog",
+          path: 'blog',
           blogSidebarTitle: 'Recent',
           editUrl: "https://github.com/powerLMZ/wiki_Docusaurus/edit/main/",
                },
