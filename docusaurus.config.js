@@ -13,10 +13,10 @@ themeConfig: {
   hideableSidebar: false,
     navbar: {                           //导航栏
       title: "Lmz's Site",                 // 名称
-      logo: {
+ /*     logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
-      },
+      },*/
       hideOnScroll: false,
       items: [
         {
