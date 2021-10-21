@@ -42,7 +42,7 @@ themeConfig: {
           items: [
             {
               label: 'Home',
-              to: 'docs/Home',
+              to: 'docs/home',
             },
             {
               label: '基本元器件-电阻',
