@@ -1,8 +1,8 @@
 module.exports = {
   title: "LMZ's Site",              // 站点名称
   tagline: 'Learning notes',  // 站点描述
-  url: "https://github.com/powerLMZ",
-  baseUrl: '/wiki_Docusaurus/',                         // 项目的基本 URL 设置为 /仓库名/
+  url: "https://wiki-docusaurus-orpin.vercel.app/",
+  baseUrl: '/',                         // 项目的基本 URL 设置为 /仓库名/
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',           // 站点的图标
   organizationName: 'lmz',
