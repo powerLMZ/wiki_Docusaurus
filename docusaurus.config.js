@@ -72,7 +72,7 @@ themeConfig: {
       {
         docs: {
           path: "./docs",
-          sidebarCollapsible: true, //默认折叠
+          //sidebarCollapsible: true, 默认折叠
           routeBasePath: "/",      // 这里将 docs/ 设置为首页
           sidebarPath: require.resolve("./sidebars.js"),
           showLastUpdateAuthor: false,
