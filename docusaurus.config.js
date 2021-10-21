@@ -20,14 +20,14 @@ themeConfig: {
       hideOnScroll: false,
       items: [
         {
-          to: 'docs/Home',
+          to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},        
         {
-          href: 'https://github.com/rcxxx/docusaurus-template',  // 如果要跳转链接则使用 herf
+          href: 'https://github.com/powerLMZ/wiki_Docusaurus',  // 如果要跳转链接则使用 herf
           label: 'GitHub',
           position: 'right',
         },
