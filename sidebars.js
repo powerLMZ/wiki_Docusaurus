@@ -24,7 +24,7 @@ module.exports = {
       type: 'category',
       label: '硬件测试-常用仪器',
       items: [
-        '常用仪器-万用表',
+        '常用仪器-电子负载',
       ],
     },  
   ],
