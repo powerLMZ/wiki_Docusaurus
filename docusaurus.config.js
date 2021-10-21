@@ -21,7 +21,7 @@ themeConfig: {
       items: [
         {
           to: 'docs/',
-          activeBasePath: 'https://github.com/powerLMZ/wiki_Docusaurus/docs',
+          activeBasePath: '/docs',
           label: 'Docs',
           position: 'left',
         },
@@ -42,11 +42,11 @@ themeConfig: {
           items: [
             {
               label: 'Home',
-              to: 'https://github.com/powerLMZ/wiki_Docusaurus/docs/Home/',
+              to: '/Home/',
             },
             {
               label: '基本元器件-电阻',
-              to: 'https://github.com/powerLMZ/wiki_Docusaurus/docs/基本元器件-电阻/',
+              to: '/基本元器件-电阻/',
             },
           ],
         },*/
