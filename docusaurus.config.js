@@ -63,7 +63,9 @@ themeConfig: {
             },
           ],
         },
+       ], 
      },
+  },
   presets: [
     [
       '@docusaurus/preset-classic',
