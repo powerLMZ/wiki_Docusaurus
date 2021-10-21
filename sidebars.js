@@ -22,9 +22,10 @@ module.exports = {
     },   
     {
       type: 'category',
-      label: '硬件设计 - 电子仪器',
+      label: '硬件测试 - 电子仪器',
       items: [
         '电子仪器-电子负载',
+        '电子仪器-万用表',
       ],
     },  
   ],
