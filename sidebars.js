@@ -30,5 +30,12 @@ module.exports = {
         '电子仪器-万用表',
       ],
     },  
+    {
+      type: 'category',
+      label: '硬件设计 - cadence基础操作',
+      items: [
+        'cadence基础操作-cadence导出BOM表',
+      ],
+    },      
   ],
 };
