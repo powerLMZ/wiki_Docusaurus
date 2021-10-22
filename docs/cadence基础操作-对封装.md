@@ -25,6 +25,20 @@ title: cadence基础操作-对封装
 
 ![](https://github.com/powerLMZ/picture/blob/master/%E6%9B%B4%E6%8D%A2%E6%B5%8B%E9%87%8F%E5%8D%95%E4%BD%8D.jpg?raw=true)
 
+- **对手册**
+
+手册上有封装的尺寸图，一般值取TYP值。
+
+![](https://github.com/powerLMZ/picture/blob/master/%E5%B0%BA%E5%AF%B8%E5%9B%BE.jpg?raw=true)
+
+- **测量按钮**
+
+在菜单中选择Show Measure
+
+![](https://github.com/powerLMZ/picture/blob/master/%E6%B5%8B%E9%87%8F%E8%B7%9D%E7%A6%BB%E6%8C%89%E9%92%AE.jpg?raw=true)
+
+点击你要测量的位置
+
 
 
 
