@@ -7,12 +7,23 @@ title: cadence基础操作-对封装
 
 ![](https://github.com/powerLMZ/picture/blob/master/%E4%BD%BF%E8%83%BD%E4%BA%A4%E4%BA%92%E5%B7%A5%E5%85%B7.jpg?raw=true)
 
-点击菜单栏的Option选项，
+在菜单中选择Options->Preferences
 
+弹出界面，选择Miscellanceous->勾选Enable Intertool Communication
 
+![](https://github.com/powerLMZ/picture/blob/master/%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2%E4%BD%BF%E8%83%BD.jpg?raw=true)
 
+- **Capture中选中元件，allergo中自动将元件高亮**
 
+![](https://github.com/powerLMZ/picture/blob/master/%E4%BA%A4%E4%BA%92%E4%BE%8B%E5%AD%90.jpg?raw=true)
 
+## 对封装
+
+- **更改测量单位**
+
+在菜单中选择setup-->design parameters-->design，在user units里选择Millimeter(mm)即可 
+
+![](https://github.com/powerLMZ/picture/blob/master/%E6%9B%B4%E6%8D%A2%E6%B5%8B%E9%87%8F%E5%8D%95%E4%BD%8D.jpg?raw=true)
 
 
 
