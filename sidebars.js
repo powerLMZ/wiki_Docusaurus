@@ -35,6 +35,7 @@ module.exports = {
       label: '硬件设计 - cadence基础操作',
       items: [
         'cadence基础操作-cadence导出BOM表',
+        'cadence基础操作-对封装',
       ],
     },      
   ],
