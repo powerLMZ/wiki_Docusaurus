@@ -3,7 +3,11 @@ id: cadence基础操作-对封装
 title: cadence基础操作-对封装
 ---
 
+## 使能交互工具
 
+![](https://github.com/powerLMZ/picture/blob/master/%E4%BD%BF%E8%83%BD%E4%BA%A4%E4%BA%92%E5%B7%A5%E5%85%B7.jpg?raw=true)
+
+点击菜单栏的Option选项，
 
 
 
