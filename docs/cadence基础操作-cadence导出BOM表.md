@@ -19,7 +19,7 @@ title: cadence基础操作-cadence导出BOM表
 
 ## 点击Bills of Materials按钮后弹出界面
 
-![](https://github.com/powerLMZ/picture/blob/master/bom4.png?raw=true)
+![](https://github.com/powerLMZ/picture/blob/master/bom3.jpg?raw=true)
 
 
 ![](https://github.com/powerLMZ/picture/blob/master/bom7.png?raw=true)
