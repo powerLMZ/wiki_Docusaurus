@@ -39,8 +39,13 @@ title: cadence基础操作-对封装
 
 点击你要测量的位置
 
+- **对引脚网络**
 
+![](https://github.com/powerLMZ/picture/blob/master/TPD4S012DRYR.jpg?raw=true)
 
+![](https://github.com/powerLMZ/picture/blob/master/TPD4S012DRYRdata.png?raw=true)
+
+逐一比对PCB板上的封装的每个引脚的位号和网络是否和数据手册上的一样。
 
 ## 参考与致谢
 
