@@ -54,6 +54,7 @@ module.exports = {
       type: 'category',
       label: '硬件设计 - eagle基础操作',
       items: [
+        'eagle基础操作-导出bom表',
       ],
     },
   ],
