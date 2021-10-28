@@ -47,7 +47,14 @@ module.exports = {
       label: '硬件设计 - 高效工作指南',
       items: [
         '高效工作指南-钽电容替换料选取',
+        '高效工作指南-CAM350的使用',
       ],
-    },      
+    },  
+     {
+      type: 'category',
+      label: '硬件设计 - eagle基础操作',
+      items: [
+      ],
+    },
   ],
 };
