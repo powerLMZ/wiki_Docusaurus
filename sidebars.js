@@ -41,6 +41,13 @@ module.exports = {
         'cadence基础操作-cadence导出BOM表',
         'cadence基础操作-对封装',
       ],
+    },
+    {
+      type: 'category',
+      label: '硬件设计 - 高效工作指南',
+      items: [
+        '高效工作指南-钽电容选取',
+      ],
     },      
   ],
 };
