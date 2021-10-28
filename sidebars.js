@@ -46,7 +46,7 @@ module.exports = {
       type: 'category',
       label: '硬件设计 - 高效工作指南',
       items: [
-        '高效工作指南-钽电容选取',
+        '高效工作指南-钽电容替换料选取',
       ],
     },      
   ],
