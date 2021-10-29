@@ -5,6 +5,8 @@ title: 基础理论-SPI通讯协议
 
 SPI，是一种高速的，全双工，同步的通信总线，.SPI 只能有一个主机，可连接一个或多个从机。连接多设备时，需要用到片选引脚（chip select，CS），SPI总线有三线和四线。
 
+SPI通信的速率可高达40MHZ，在使用一些电平转换电路时要考虑开关管的导通速率，是否能满足要求。
+
 ![](https://wiki-media-1253965369.cos.ap-guangzhou.myqcloud.com/img/20210911095950.png)
 
 ## SPI的引脚
