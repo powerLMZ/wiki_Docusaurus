@@ -62,6 +62,7 @@ module.exports = {
       label: '硬件设计 - 基础理论',
       items: [
         '基础理论-IIC通讯协议',
+        '基础理论-SPI通讯协议',
       ],
     },    
   ],
