@@ -18,7 +18,7 @@ IIC总线上的每个设备都必须有一个唯一的地址，在使用IIC通�
 
 1011010前面补0到8位:01011010=0x5A.
 
-在PCB板上要表default addr 0x5A.
+在PCB板上要标default addr 0x5A.
 
 ## IIC通信
 
