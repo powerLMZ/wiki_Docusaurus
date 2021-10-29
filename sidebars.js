@@ -57,5 +57,12 @@ module.exports = {
         'eagle基础操作-导出bom表',
       ],
     },
+    {
+      type: 'category',
+      label: '硬件设计 - 基础理论',
+      items: [
+        '基础理论-IIC通讯协议',
+      ],
+    },    
   ],
 };
