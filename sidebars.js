@@ -66,6 +66,7 @@ module.exports = {
       items: [
         '基础理论-IIC通讯协议',
         '基础理论-SPI通讯协议',
+        '基础理论-USB接线',
       ],
     },    
   ],
