@@ -5,7 +5,7 @@ title: 基础电路-RC滤波电路
 
 ## RC低通滤波电路
 
-**电路图如下
+**电路图如下**
 
 ![](https://github.com/powerLMZ/picture/blob/master/11.jpg?raw=true)
 
@@ -17,7 +17,7 @@ Uo和电容并联，根据分压公式Uo=Xc/(Xc+R)*Ui
 
 当f频率越小时，电容的阻抗越大，更少的电流从电容上流回去，越多的电流输出到Uo。
 
-**波形图
+**波形图**
 
 纵坐标表示信号的衰减程度
 
@@ -29,7 +29,7 @@ Uo和电容并联，根据分压公式Uo=Xc/(Xc+R)*Ui
 
 ## RC高通滤波电路
 
-**电路图如下
+**电路图如下**
 
 ![](https://github.com/powerLMZ/picture/blob/master/13.jpg?raw=true)
 
@@ -37,7 +37,7 @@ Uo和电容并联，根据分压公式Uo=Xc/(Xc+R)*Ui
 
 Uo和电容并联，根据分压公式Uo=R/(Xc+R)*Ui
 
-**波形图
+**波形图**
 
 纵坐标表示信号的衰减程度
 
@@ -50,11 +50,11 @@ fc（截止频率）=1/2ΠRC
 
 ## RC带通滤波电路
 
-**电路图如下
+**电路图如下**
 
 ![](https://github.com/powerLMZ/picture/blob/master/15.jpg?raw=true)
 
-**波形图
+**波形图**
 
 ![](https://github.com/powerLMZ/picture/blob/master/16.jpg?raw=true)
 
@@ -64,7 +64,7 @@ fc2（截止频率）=1/2ΠR2C2
 
 ## RC带阻滤波电路
 
-**电路图如下
+**电路图如下**
 
 ![](https://github.com/powerLMZ/picture/blob/master/17.jpg?raw=true)
 
