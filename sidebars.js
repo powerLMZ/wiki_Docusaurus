@@ -63,7 +63,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: '硬件设计 - 基础理论',
+      label: '基础理论 - 通信协议',
       items: [
         '基础理论-IIC通讯协议',
         '基础理论-SPI通讯协议',
