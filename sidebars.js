@@ -71,5 +71,17 @@ module.exports = {
         '基础理论-模拟和数字',
       ],
     },    
+     {
+      type: 'category',
+      label: '嵌入式开发 - 单片机',
+      items: [
+      ],
+    }, 
+    {
+      type: 'category',
+      label: '嵌入式开发 - linux',
+      items: [
+      ],
+    },   
   ],
 };
