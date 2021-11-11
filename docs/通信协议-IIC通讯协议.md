@@ -1,6 +1,6 @@
 ---
-id: 基础理论-IIC通讯协议
-title: 基础理论-IIC通讯协议
+id: 通信协议-IIC通讯协议
+title: 通信协议-IIC通讯协议
 ---
 
 ## IIC描述
