@@ -36,6 +36,10 @@ title: 通信协议-UART
 
 - 波特率：bps，每秒钟传输位数，例如115200bps，就是1s中传输115200个数据位，1个数据位占用时间就是1/115200s
 
+**数据格式如下：**
+
+![](https://github.com/powerLMZ/picture/blob/master/UART12.png?raw=true)
+
 ## 流控
 
 - RTS : 请求发送， 作为输出口
