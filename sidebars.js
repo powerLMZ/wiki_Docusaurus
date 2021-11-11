@@ -70,6 +70,7 @@ module.exports = {
         '基础理论-USB接线',
         '基础理论-模拟和数字',
         '通信协议-UART',
+        '通信协议-nand flash',
       ],
     },    
      {
