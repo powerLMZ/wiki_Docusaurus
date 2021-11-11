@@ -30,8 +30,15 @@ IIC总线上的每个设备都必须有一个唯一的地址，在使用IIC通�
 
 - **终止信号**：主机在 SCL 为高时，释放 SDA（变为高电平）发起。
 
-![](https://img-blog.csdn.net/20150907161226553?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQv/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![](https://github.com/powerLMZ/picture/blob/master/IIC12.png?raw=true)
 
+**传输数据**：
+
+- SDA上的传输数据必须在SCL为高电平期间保持稳定
+
+- SDA上的传输数据必须在SCL为低电平期间变化,数据先传高位。
+
+![](https://github.com/powerLMZ/picture/blob/master/IIC13.png?raw=true)
 
 ## 参考与致谢
 
