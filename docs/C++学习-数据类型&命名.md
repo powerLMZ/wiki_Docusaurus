@@ -39,7 +39,7 @@ title: C++学习-数据类型&命名
 
 - char 字符型  ''
 
-- string 字符串 ""   要包含#include <string>
+- string 字符串 ""   要包含 #include <string>
   
 - bool 布尔型 值 ture真（1）  false假（0）
   
