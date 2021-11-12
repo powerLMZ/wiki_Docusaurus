@@ -9,6 +9,14 @@ int a;
 
 cin>>a;//输入a的值
 
+## 数据的输出
+
+int a = 0;
+
+cout << "string" << a << endl
+
+输出结果：string0
+
 ## if语句
 
 if（条件一）
