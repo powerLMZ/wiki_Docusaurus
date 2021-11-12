@@ -29,14 +29,13 @@ module.exports = {
         '常见电路-正点原子一键下载电路',
       ],
     },   
- /*   {
+    {
       type: 'category',
-      label: '硬件测试 - 电子仪器',
+      label: '软件基础 - C++学习笔记',
       items: [
-        '电子仪器-电子负载',
-        '电子仪器-万用表',
+        
       ],
-    },  */
+    },  
     {
       type: 'category',
       label: '硬件设计 - cadence基础操作',
