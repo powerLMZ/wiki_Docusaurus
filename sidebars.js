@@ -33,7 +33,7 @@ module.exports = {
       type: 'category',
       label: '软件基础 - C++学习笔记',
       items: [
-        
+       'C++学习-数据类型&命名',
       ],
     },  
     {
