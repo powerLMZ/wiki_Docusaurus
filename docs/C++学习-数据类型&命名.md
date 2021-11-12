@@ -37,9 +37,9 @@ title: C++学习-数据类型&命名
 
 - double 双精度 15~16有效数字
 
-- char 字符型  ''
+- char 字符型  
 
-- string 字符串 ""   要包含"#include <string>"
+- string 字符串 头文件要包含"#include <string>"
   
 - bool 布尔型 值 ture真（1）  false假（0）
   
