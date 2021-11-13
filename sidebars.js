@@ -84,6 +84,7 @@ module.exports = {
       type: 'category',
       label: '嵌入式开发 - linux',
       items: [
+        '基础理论-嵌入式',
       ],
     },   
   ],
