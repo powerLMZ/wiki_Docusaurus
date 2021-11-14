@@ -86,6 +86,7 @@ module.exports = {
       items: [
         '基础理论-嵌入式',
         'linux学习笔记-常用shell命令',
+        'linux学习笔记-多线程',
       ],
     },   
   ],
