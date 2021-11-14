@@ -46,6 +46,27 @@ title: 通信协议-UART
 
 - CTS : 允许发送，作为输入口
 
+## 232 通信
+
+232 通信主要是由RX,TX,GND三根线组成。
+
+232接口9个pin
+
+![](https://github.com/powerLMZ/picture/blob/master/232.png?raw=true)
+
+## 485
+
+485是为了解决232通信距离的问题，485主要是以一种差分信号进行传输，只需要两根线，+,-两根线。牺牲了全双工模式，变成半双工，每次只能作发送或者只能作接收。
+
+
+
+![](https://github.com/powerLMZ/picture/blob/master/485.png?raw=true)
+
+## 422
+
+422就是把232的RX分成两根线，RX+，RX-，把TX分成TX+,TX-。这样就可以同时发送和同时接收了，还可以像485这样，有较远的传输距离。
+
+![](https://github.com/powerLMZ/picture/blob/master/422.png?raw=true)
 
 ## 参考与致谢
 
