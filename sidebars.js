@@ -85,6 +85,7 @@ module.exports = {
       label: '嵌入式开发 - linux',
       items: [
         '基础理论-嵌入式',
+        'linux学习笔记-常用shell命令',
       ],
     },   
   ],
