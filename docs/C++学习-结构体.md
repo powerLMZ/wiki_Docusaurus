@@ -153,6 +153,42 @@ t.stu.age=20;
 
 t.stu.score=99;
 
+## 结构体类型的变化
+
+正常c语言情况下，定义和引用结构体变量如下
+
+struct Student
+
+{
+
+  string name;
+  
+  int age;
+  
+  int score
+  
+};
+
+struct Student s2={“李四”，18,99}；
+
+### C语言情况下，利用typedef，可以减少写struct
+
+typedef struct Stu
+
+{
+
+  string name;
+  
+  int age;
+  
+  int score
+  
+}Student;
+
+Student s2={“李四”，18,99}；
+
+使用 typedef 为这个新的结构stu起了一个别名，叫Student.
+
 ## 参考与致谢
 
 > 文章作者：**Power LMZ**  
