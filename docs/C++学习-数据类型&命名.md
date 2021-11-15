@@ -41,11 +41,13 @@ title: C++学习-数据类型&命名
 
 - double 双精度 15~16有效数字
 
-- char 字符型  
+- char 字符型  1字节
 
-- string 字符串 头文件要包含string
+- string 字符串 头文件要包含string 6字节 
   
 - bool 布尔型 值 ture真（1）  false假（0）
+
+指针变量也是4字节
   
 - 转义字符
 
